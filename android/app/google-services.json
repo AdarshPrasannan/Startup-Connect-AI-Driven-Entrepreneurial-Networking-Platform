@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504069693888",
+    "project_id": "startup-connect-e719b",
+    "storage_bucket": "startup-connect-e719b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504069693888:android:895d7a50e9bf3a9b522825",
+        "android_client_info": {
+          "package_name": "com.example.startup_corner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504069693888-oafdh3p3jtijrhrb4ir1hvqa0rno0vje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3hwvcNoeACUh8ZWNIkdK7nvfVgFH9JP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504069693888-oafdh3p3jtijrhrb4ir1hvqa0rno0vje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
